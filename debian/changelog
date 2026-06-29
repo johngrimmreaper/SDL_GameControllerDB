@@ -1,3 +1,9 @@
+sdl-gamecontrollerdb (0~git20260626.513c72e-1) UNRELEASED; urgency=medium
+
+  * Update SDL_GameControllerDB snapshot to upstream 20260626 513c72e.
+
+ -- Reaper <JohnGrimmReaper@disroot.org>  Mon, 29 Jun 2026 23:59:13 +0000
+
 sdl-gamecontrollerdb (0~git20260319.4a8d0f2-1) UNRELEASED; urgency=medium
 
   * Initial release.
