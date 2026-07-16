@@ -1,3 +1,10 @@
+sdl-gamecontrollerdb (0~git20260715.8d9fefd-1) UNRELEASED; urgency=medium
+
+  * Update SDL_GameControllerDB snapshot to upstream 20260715 8d9fefd.
+  * Add Xbox Series X Controller mapping for Linux.
+
+ -- Reaper <JohnGrimmReaper@disroot.org>  Wed, 15 Jul 2026 23:58:12 +0000
+
 sdl-gamecontrollerdb (0~git20260626.513c72e-1) UNRELEASED; urgency=medium
 
   * Update SDL_GameControllerDB snapshot to upstream 20260626 513c72e.
