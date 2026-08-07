@@ -1,3 +1,19 @@
+sdl-gamecontrollerdb (0~git20260731.9258054-1) UNRELEASED; urgency=medium
+
+  * Update SDL_GameControllerDB snapshot to upstream 20260731 9258054:
+    - Add 8BitDo Ultimate 2C Wireless and GameSir X5 Lite Android mappings (#974).
+    - Upstream mappings.
+    - Add PowerA Advantage Wired Controller for NS2 Windows mapping (#973).
+    - Add 8BitDo Ultimate 2C 0x310a Windows mapping (#971).
+    - Add GameSir X5 Lite.
+    - Add additional Retro Fighters D6 mapping, sort.
+    - Fix PS3 face button index.
+    - Add RetroFighters D6.
+    - Fix 8BitDo SN30 Pro on macOS (#968).
+    - Add mapping for "BigBen Interactive Usb Gamepad" under Linux (#967).
+
+ -- Reaper <JohnGrimmReaper@disroot.org>  Fri, 07 Aug 2026 20:35:42 +0000
+
 sdl-gamecontrollerdb (0~git20260715.8d9fefd-1) UNRELEASED; urgency=medium
 
   * Update SDL_GameControllerDB snapshot to upstream 20260715 8d9fefd.
