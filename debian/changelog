@@ -7,7 +7,7 @@ sdl-gamecontrollerdb (0~git20260812.42f28e2-1) UNRELEASED; urgency=medium
     - Sort the controller database.
     - Add Logitech Precision mapping.
 
- -- Reaper <JohnGrimmReaper@disroot.org>  Mon, 17 Aug 2026 01:10:24 +0000
+ -- Reaper <JohnGrimmReaper@disroot.org>  Mon, 17 Aug 2026 01:10:21 +0000
 
 sdl-gamecontrollerdb (0~git20260731.9258054-1) UNRELEASED; urgency=medium
 
@@ -23,7 +23,7 @@ sdl-gamecontrollerdb (0~git20260731.9258054-1) UNRELEASED; urgency=medium
     - Fix 8BitDo SN30 Pro on macOS (#968).
     - Add mapping for "BigBen Interactive Usb Gamepad" under Linux (#967).
 
- -- Reaper <JohnGrimmReaper@disroot.org>  Fri, 07 Aug 2026 21:06:43 +0000
+ -- Reaper <JohnGrimmReaper@disroot.org>  Fri, 07 Aug 2026 20:35:42 +0000
 
 sdl-gamecontrollerdb (0~git20260715.8d9fefd-1) UNRELEASED; urgency=medium
 
