@@ -1,3 +1,14 @@
+sdl-gamecontrollerdb (0~git20260812.42f28e2-1) UNRELEASED; urgency=medium
+
+  * Update SDL_GameControllerDB snapshot to upstream 20260812 42f28e2:
+    - Add Gravis Xterminator Force Linux mapping.
+    - Update README.
+    - Add Hori Hatsune Miku 39S Controller Linux mapping (#978).
+    - Sort the controller database.
+    - Add Logitech Precision mapping.
+
+ -- Reaper <JohnGrimmReaper@disroot.org>  Mon, 17 Aug 2026 01:10:26 +0000
+
 sdl-gamecontrollerdb (0~git20260731.9258054-1) UNRELEASED; urgency=medium
 
   * Update SDL_GameControllerDB snapshot to upstream 20260731 9258054:
