@@ -1,3 +1,19 @@
+sdl-gamecontrollerdb (0~git20260901.2ecf6d1-1) UNRELEASED; urgency=medium
+
+  * Update SDL_GameControllerDB snapshot to upstream 20260901 2ecf6d1:
+    - Add M64 Pro mappings, including Bluetooth.
+    - Add Hyperkin N64 adapter Linux mapping (#985).
+    - Add Xbox Series Controller Mac mapping for firmware 0x0523 (#983).
+    - Add BSP Y04 Windows and Mac mappings.
+    - Add ShanWan Linux and Mac mappings.
+    - Add GameSir G5 mapping.
+    - Add Logic3 Afterglow Wired Controller mapping (#982).
+    - Add Rockfire MaxFire G08XU mapping.
+    - Remove the invalid leftstick:a0 mapping (#979).
+    - Sort the database and clean up controller names.
+
+ -- Reaper <JohnGrimmReaper@disroot.org>  Wed, 02 Sep 2026 20:57:51 +0000
+
 sdl-gamecontrollerdb (0~git20260812.42f28e2-1) UNRELEASED; urgency=medium
 
   * Update SDL_GameControllerDB snapshot to upstream 20260812 42f28e2:
