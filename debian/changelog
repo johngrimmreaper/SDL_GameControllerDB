@@ -1,3 +1,14 @@
+sdl-gamecontrollerdb (0~git20260911.5a12daa-1) UNRELEASED; urgency=medium
+
+  * Update SDL_GameControllerDB snapshot to upstream 20260911 5a12daa:
+    - Add Flydigi Direwolf Linux mapping.
+    - Add Generic PS3 pad mapping.
+    - Add Bluetooth mapping for 8BitDo Pro 3 on Linux (#991).
+    - Add Austgame Linux mapping.
+    - Sort the controller database.
+
+ -- Reaper <JohnGrimmReaper@disroot.org>  Wed, 16 Sep 2026 03:01:28 +0000
+
 sdl-gamecontrollerdb (0~git20260901.2ecf6d1-1) UNRELEASED; urgency=medium
 
   * Update SDL_GameControllerDB snapshot to upstream 20260901 2ecf6d1:
