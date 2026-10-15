@@ -1,3 +1,17 @@
+sdl-gamecontrollerdb (0~git20261002.c1d5289-1) UNRELEASED; urgency=medium
+
+  * Update SDL_GameControllerDB snapshot to upstream 20261002 c1d5289:
+    - Add Hyperkin Competitor controller mapping on Linux (#992).
+    - Fix PlayStation Classic Controller D-pad mapping on Linux (#993).
+    - Add mappings for two 8BitDo controllers (#994).
+    - Remove Anbernic RG28XX Controller mapping with malformed GUID.
+    - Add GameSir G7 Pro mapping on macOS (#997).
+    - Add GameSir Nova Lite mappings on macOS (#998).
+    - Remove ODROID Go 2 mapping with colliding default product ID (#999).
+    - Refresh README contribution guidance.
+
+ -- Reaper <JohnGrimmReaper@disroot.org>  Thu, 15 Oct 2026 19:50:00 +0000
+
 sdl-gamecontrollerdb (0~git20260911.5a12daa-1) UNRELEASED; urgency=medium
 
   * Update SDL_GameControllerDB snapshot to upstream 20260911 5a12daa:
