@@ -1,3 +1,16 @@
+sdl-gamecontrollerdb (0~git20261123.80b6230-1) UNRELEASED; urgency=medium
+
+  * Update SDL_GameControllerDB snapshot to upstream 20261123 80b6230:
+    - Fix PS5 DualSense rotated face buttons on Android (#1001).
+    - Add Razer Wolverine V2 and UNICO MVS Mini Pad Linux mappings.
+    - Add vivo GP2031 and Technosaurus Magic Gamepad mappings.
+    - Add RetroFighters Brawler64 Pro controller mappings.
+    - Correct Retro Fighters D6 DInput axes on Windows.
+    - Fix Sony PlayStation Vita right-stick axes on Linux (#1010).
+    - Include other upstream database additions, fixes, and linting.
+
+ -- Reaper <JohnGrimmReaper@disroot.org>  Mon, 23 Nov 2026 14:02:24 +0000
+
 sdl-gamecontrollerdb (0~git20261002.c1d5289-1) UNRELEASED; urgency=medium
 
   * Update SDL_GameControllerDB snapshot to upstream 20261002 c1d5289:
